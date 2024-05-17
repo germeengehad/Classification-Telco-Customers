@@ -1,4 +1,4 @@
-(image_filename.png)
+([image_filename.png](https://github.com/germeengehad/Classification-Telco-Customers/blob/main/Telco-Improve-CX-Featured-Image_01-min.jpg))
 # Classification Telco Customers :Project Overview
  - This project aims to classify customers into churn or non-churn categories. Churn refers to customers who have discontinued their services within the last month. The goal is to assist companies in understanding the reasons behind customer churn and predicting which customers are likely to leave the company based on available data.
 - I plan to conduct exploratory data analysis (EDA) on my dataset, followed by data preprocessing, feature selection, and feature engineering. Subsequently, I intend to apply various machine learning models, including logistic regression, support vector machine (SVM), naive Bayes, k-nearest neighbors (KNN), decision tree, random forest, gradient boosting, and XGBoost. Finally, I will evaluate the performance of these models and select the best-performing one for my dataset.
