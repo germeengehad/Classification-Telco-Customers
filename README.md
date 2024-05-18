@@ -40,7 +40,7 @@
 - I tried Eight Different Models and i used GridsearchCV to find the best parameter for my models.
 
 # Model Performance On val Set
-![model]()
+![model](https://github.com/germeengehad/Classification-Telco-Customers/blob/main/Screenshot%20(404).png)
 
 # Choose The Best Model
 from these outputs, I will choose the SVM model as the best model to predict this data, because it has the lowest difference between the train and test sets' accuracy
