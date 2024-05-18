@@ -40,14 +40,7 @@
 - I tried Eight Different Models and i used GridsearchCV to find the best parameter for my models.
 
 # Model Performance On val Set
-- logistic regression 79%
-- support vector machine (SVM) 78%
-- naive Bayes 70%
-- k-nearest neighbors (KNN) 76%
-- decision tree 76%
--  random forest 77%
-- gradient boosting 78%
--  XGBoost 78%
+![model]()
 
 # Choose The Best Model
 from these outputs, I will choose the SVM model as the best model to predict this data, because it has the lowest difference between the train and test sets' accuracy
